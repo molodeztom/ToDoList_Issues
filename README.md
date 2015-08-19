@@ -1,3 +1,7 @@
+[Bug Reports](https://github.com/abstractspoon/ToDoList_Issues/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abug)
+
+[Feature Requests](https://github.com/abstractspoon/ToDoList_Issues/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22Feature+Request%22)
+
 ## ToDoList Issues
  
 This and all ToDoList_ repos are for the [ToDoList](http://www.codeproject.com/Articles/5371/ToDoList) task management / project management FOSS.
